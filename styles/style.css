@@ -72,3 +72,48 @@ ul > li {
   background: rgba(39, 39, 39, 0.05);
   padding: 100px;
 }
+.offer {
+  display: flex;
+  width: 1922px;
+  height: 420px;
+  margin-top: 30px;
+  border-radius: 8px;
+  background: rgba(229, 84, 115, 0.05);
+  padding: 150px 250px 150px 250px;
+}
+.social {
+    text-align: center;
+    margin: 30px 100px;
+}
+.social-img{
+    margin-left: 30px;
+}
+.latest{
+  justify-content: center;
+  margin: 50px;
+}
+.hot-deals{
+  padding: 80px;
+  width: 1440px;
+height: 449px;
+text-align: center;
+background-image: url('../images/Rectangle\ 9.png');
+background-repeat: no-repeat;
+}
+#email-deal{
+  padding: 18px 120px 15px 5px;
+  border-radius: 5px;
+
+}
+.footer-info{
+  background: black;
+  text-align: center;
+  padding: 100px;
+}
+.footer-info p{
+  color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal
+}
